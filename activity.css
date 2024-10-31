@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div {
+    height: 500px;
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+}
